@@ -6,5 +6,5 @@
 
 
 
-![java](https://img.shields.io/badge/java-de1024)
-![network](https://img.shields.io/badge/network-0e21cc)
+![Java](https://img.shields.io/badge/Java-de1024)
+![Network](https://img.shields.io/badge/Network-0e21cc)
